@@ -10,6 +10,7 @@ Release:	%{release}
 License:	GPL
 Group:		System/Configuration/Hardware
 URL:		http://bedroomlan.dyndns.org/~alexios/coding_lmctl.html
+BuildRoot:	%_tmppath/%{name}-%{version}-%{release}-buildroot
 Source0:	http://www.bedroomlan.org/~alexios/files/SOFTWARE/lmctl/%{name}_%{version}.tar.gz
 Source1:	http://www.bedroomlan.org/~alexios/files/SOFTWARE/lmctl/%{name}_%{version}.tar.gz.sig
 # (abel) Recognize extra mouse IDs
