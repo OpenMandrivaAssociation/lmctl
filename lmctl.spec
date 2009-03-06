@@ -1,4 +1,4 @@
-%define rel 5
+%define rel 6
 %define name lmctl
 %define version 0.3.2
 %define release %mkrel %{rel}
