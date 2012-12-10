@@ -1,3 +1,4 @@
 sources:
-  "lmctl_0.3.2.tar.gz:"	e903befbfe8a66965427fb27a9555122b901ec05
-  "lmctl_0.3.2.tar.gz.sig:"	6bfc41d508d310a2ad8db924cbc22450ae357098
+  "lmctl-0.3.2-extra-devices.patch.bz2": 686b84aa78585e3c7233094b5f5eb7c62bc0cfed
+  "lmctl-0.3.2-mx518.patch.bz2": 2547fe0b3e53465d514587d43e6619c69d55a15f
+  "lmctl_0.3.2.tar.gz": e903befbfe8a66965427fb27a9555122b901ec05
