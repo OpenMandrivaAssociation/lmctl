@@ -17,6 +17,11 @@ Source1:	http://www.bedroomlan.org/~alexios/files/SOFTWARE/lmctl/%{name}_%{versi
 Patch0:		lmctl-0.3.2-extra-devices.patch.bz2
 # (abel) MX518 allows max 1600dpi resolution
 Patch1:		lmctl-0.3.2-mx518.patch.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	libusb-devel
 Requires:	logitech-mouse-common
 
