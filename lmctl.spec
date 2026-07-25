@@ -1,7 +1,7 @@
 %define rel 8
 %define name lmctl
 %define version 0.3.2
-%define release %mkrel %{rel}
+%define release %{rel}.1
 
 Summary:	Configuration tool for Logitech USB Mice
 Name:		%{name}
